@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/114078428/209230358-4ea2bbbf-228c-43e2-9131-e4034cabe025.png)
 ![image](https://user-images.githubusercontent.com/114078428/209230411-c9563157-e632-4f54-b867-ecad03d1fb28.png)
 
-# Зависимоси
+# Зависимости
 Программма написана на платформе JavaFX программы Inteliji IDEA и Scene Builder.
 
 # Установка
